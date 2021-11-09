@@ -6,7 +6,7 @@
 - 🤐 Currently applying for colleges
 - 🥳 Hope everything is well 
 
-<--
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OOXXXX)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
