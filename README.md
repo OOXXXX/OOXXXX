@@ -2,9 +2,7 @@
 
 
 ### Hi there 👋
-- 🤔 A-level student 
-- 🤐 Currently applying for colleges
-- 🥳 Hope everything is well 
+- UCL EEE BEng Undergraduate
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OOXXXX)](https://github.com/anuraghazra/github-readme-stats)
