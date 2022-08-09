@@ -1,12 +1,28 @@
 
 
 
-### Hi there 👋
-- UCL EEE BEng Undergraduate
+## 👋Hi 
 
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OOXXXX)](https://github.com/anuraghazra/github-readme-stats)
--->
+- 👋 My hometown: Nanjing
+- 🏫 Currently studying at UCL(University College London)
+- ❤️ Hobbies: Cycling, Photography, Coding
+- 🔭 Favourite Language: Swift/SwiftUI()
+- 💬 Connect with me: zhupx2003@outlook.com
+- 🏠 My blog: https://www.patrickzhu.club
+
+![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=fff)
+![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+![](https://img.shields.io/badge/-macOS-lightgrey?style=flat-square&logo=apple&logoColor=fff)
+![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
+
+
 <!--
 **OOXXXX/OOXXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
