@@ -3,7 +3,7 @@
 
 ## 👋Hi 
 
-- 👋 My hometown: Nanjing
+- 👋 Hometown: Nanjing/Shanghai
 - 🏫 Currently studying at UCL(University College London)
 - ❤️ Hobbies: Cycling, Photography, Coding
 - 🔭 Favourite Language: Swift()
