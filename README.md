@@ -3,8 +3,8 @@
 
 ## 👋Hi 
 
-- 👋 Hometown: Nanjing/Shanghai
-- 🏫 Currently studying at UCL(University College London)
+- 👋 Hometown: Nanjing
+- 🏫 UCL(University College London)
 - ❤️ Hobbies: Cycling, Photography, Coding
 - 🔭 Favourite Language: Swift()
 - 💬 Connect with me: zhupx2003@outlook.com
