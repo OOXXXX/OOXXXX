@@ -7,8 +7,6 @@
 - 🏫 UCL(University College London)
 - ❤️ Hobbies: Cycling, Photography, Coding
 - 🔭 Favourite Language: Swift()
-- 💬 Connect with me: zhupx2003@outlook.com
-- 🏠 My blog: https://www.patrickzhu.club
 
 ![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
